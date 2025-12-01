@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "旅立ちの時 ～Asian Dream Song～ (混声三部)",
+  "base_artist": "micah",
+  "createdAt": "2025-12-01T08:05:15.692446Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "旅立ちの時 (Asian Dream Song)",
+      "artist": "船橋さざんか少年少女合唱団",
+      "has_synced": false,
+      "path": "select/01_旅立ちの時_(Asian_Dream_Song)_船橋さざんか少年少女合唱団.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "旅立ちの時 ～ Asian Dream Song ～",
+      "artist": "合唱",
+      "has_synced": false,
+      "path": "select/pl_01_旅立ちの時_~_Asian_Dream_Song_~_合唱.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "旅立ちの時~Asian Dream Song~ [混三]",
+      "artist": "合唱",
+      "has_synced": false,
+      "path": "select/pl_02_旅立ちの時~Asian_Dream_Song~_[混三]_合唱.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "旅立ちの時~Asian Dream Song~",
+      "artist": "合唱",
+      "has_synced": false,
+      "path": "select/pl_03_旅立ちの時~Asian_Dream_Song~_合唱.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "旅立ちの時〜Asian Dream Song〜 - アルト",
+      "artist": "合唱",
+      "has_synced": false,
+      "path": "select/pl_04_旅立ちの時〜Asian_Dream_Song〜_-_アルト_合唱.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "旅立ちの時〜Asian Dream Song〜 - ソプラノ",
+      "artist": "合唱",
+      "has_synced": false,
+      "path": "select/pl_05_旅立ちの時〜Asian_Dream_Song〜_-_ソプラノ_合唱.txt"
+    }
+  ]
+}
